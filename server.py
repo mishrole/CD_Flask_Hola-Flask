@@ -1,19 +1,3 @@
-# pip install pipenv
-# pipenv install flask - instalar flask por cada carpeta
-# pipenv shell
-# python archivo
-
-# ubuntu
-# pip3 install flask (global)
-# Pero se debe instalar por carpeta
-
-# en ubuntu
-# python -m pip install --user pipenv o pip3 install pipenv
-# echo 'export PATH="${HOME}/.local/bin:$PATH"' >> ~/.bashrc
-# pipenv install flask
-# pipenv shell (demora pero corre)
-# python archivo para correr
-
 # Import Flask
 from flask import Flask, render_template
 
